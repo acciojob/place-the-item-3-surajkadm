@@ -4,4 +4,29 @@
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.element{
+    
+    width: 500px;
+}
+.element-1{
+    font-size: 200px;
+    background-color: red;
+}
+.element-2{
+    font-size: 200px;
+    background-color: red;
+}
+.element-3{
+    font-size: 200px;
+    background-color: red;
+}
+.element-4{
+    font-size: 200px;
+    background-color: red;
+}
+.element-5{
+    font-size: 200px;
+    background-color: red;
+}
 /* Your CSS Code here. */
